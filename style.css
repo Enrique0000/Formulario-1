@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.f_form{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: rgba(179, 173, 173, 0.897);
+}
+
+.genero{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
